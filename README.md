@@ -186,6 +186,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+>Cambié mi contraseña en todas partes a “incorrecta”. De esta forma, cuando lo olvido, siempre me recuerda: “Su contraseña es incorrecta”
+
+*Pass Word*
+
+------
+
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
